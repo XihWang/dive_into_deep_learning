@@ -8,4 +8,4 @@
 
 沐神讲解通俗易懂，但部分代码的讲解过于简略，总体推荐观看
 
-[bilibili](https://www.bilibili.com/list/1567748478/?bvid=BV1if4y147hS&oid=289532467) 
+[bilibili](https://www.bilibili.com/video/BV1if4y147hS/) 
